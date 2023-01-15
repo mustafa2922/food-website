@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1303480001/photo/about-us.jpg?b=1&s=170667a&w=0&k=20&c=bO2majhgNDwxjvUxhWj-tVyz8bmZoGICADy51Zyu2kY=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.753);
+    border: 1px solid black;
+    border-radius: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 255);
+}
+
+#fb:hover {
+    color: rgb(19, 0, 187);
+}
+
+#yt:hover {
+    color: red;
+}
+
+#fr:hover {
+    color: rgb(0, 173, 0);
+}
+
+#up:hover {
+    color: rgb(0, 114, 0);
+}
+
+#em:hover {
+    color: rgb(255, 50, 50);
+}

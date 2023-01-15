@@ -1,0 +1,72 @@
+body {
+    background-image: url(https://media.istockphoto.com/photos/shopping-basket-with-fresh-food-grocery-supermarket-food-and-eats-picture-id1216828053?b=1&k=20&m=1216828053&s=612x612&w=0&h=cMwFb2eTwH1Mn2wFqm5G5cCmOsb4irUYg1wdanblqKo=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#grc {
+    background-color: rgba(255, 0, 0, 0.479);
+    border: 1px solid red;
+    border-radius: 30px;
+    text-align: center;
+    font-family: "Dancing script";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+li {
+    color: white;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+ul {
+    background-color: rgba(0, 0, 0, 0.466);
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+ul+h2 {
+    font-family: "dancing Script";
+    background-color: rgba(255, 255, 0, 0.301);
+    border: 2px solid yellow;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+th {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    color: white;
+    width: 450px;
+    height: 70px;
+}
+
+td {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 30px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+table {
+    background-color: rgba(0, 0, 0, 0.527);
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+a>img {
+    filter: invert(100%);
+    border: 1px solid black;
+    border-radius: 50px;
+    display: block;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: auto;
+}
